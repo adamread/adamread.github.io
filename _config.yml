@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://adamread.github.io
+title: aread.ca
+tagline: Short thoughts, since the long ones are needed elsewhere
+description: A blog, that I may even update once in a while.
+paginate: 10
